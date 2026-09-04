@@ -1,4 +1,4 @@
-# 🔐 2FA
+# 🔐 2FA 
 
 基于 Cloudflare Workers 的两步验证密钥管理系统。免费部署、全球加速、支持 PWA 离线使用。
 
